@@ -17,13 +17,12 @@ set(QtX Qt${QT_VERSION_MAJOR})
 add_qtc_plugin(TabbedEditor
   PLUGIN_DEPENDS
     QtCreator::Core
+    QtCreator::ProjectExplorer
   DEPENDS
     ${QtX}::Widgets
     QtCreator::ExtensionSystem
     QtCreator::Utils
   SOURCES
-    .github/workflows/build_cmake.yml
-    .github/workflows/README.md
     README.md
     tabbededitor.cpp
     tabbededitor.h
