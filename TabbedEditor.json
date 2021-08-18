@@ -1,12 +1,12 @@
 {
     "Name" : "TabbedEditor",
-    "Version" : "0.0.4",
-    "CompatVersion" : "0.0.4",
-    "Vendor" : "Oleg Shparber",
-    "Copyright" : "(C) 2015 Oleg Shparber",
+    "Version" : "0.0.5",
+    "CompatVersion" : "0.0.5",
+    "Vendor" : "SNA Soft, Oleg Shparber and others",
+    "Copyright" : "(C) SNA Soft, Oleg Shparber and others",
     "License" : "LGPLv3",
     "Category" : "Qt Creator",
     "Description" : "Add tabs to Qt Creator.",
-    "Url" : "https://github.com/trollixx/qtcreator-tabbededitor-plugin"   
+    "Url" : "https://github.com/crystalidea/qt-creator-tabbededitor-plugin"   
     
 }
